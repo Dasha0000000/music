@@ -1,5 +1,6 @@
-background-image:
-url(https://raw.githack.com/Dasha0000000/music/refs/heads/main/star%20sky.jpg)
+selector {
+  background-image: url('https://raw.githack.com/Dasha0000000/music/refs/heads/main/star%20sky.jpg');
+}
 html,
 body {
   padding: 0;
